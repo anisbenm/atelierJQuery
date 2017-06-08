@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 juin 2017, 12:53:57
+    Author     : Administrateur
+*/
+
+.bleu{
+    background-color: background;
+}
+.vert{
+    background-color: chartreuse
+}
+.mauve{
+    background-color: blueviolet
+}
+.ligne-paire{
+    background-color: aqua;
+}
+.ligne-impaire{
+    background-color: aquamarine;
+}
+.clicke{
+    background-color: tomato;
+    font-size: 24px;
+}
